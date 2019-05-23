@@ -2,6 +2,8 @@
 
 filename=$1
 
+#fetch from sqlie database
+
 result=$(sqlite3 /hercules/u/aswin/database/Processed.db "select result_path from headers where file_name='$filename'")
 
 file_location=$(sqlite3 /hercules/u/aswin/database/Processed.db "select file_location from headers where file_name='$filename'")
