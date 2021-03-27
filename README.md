@@ -12,5 +12,3 @@ into the pulse of interest with an accuracy of concentrating one pulse at partic
 In addition to that, one can also use a crop tool to highlight any particular cluster in the plot and
 generate dynamic spectrum for all the pulses within the cluster. The dynamic spectrum is generated
 using DSPSR (Digital signal processing of pulsar astronomical timeseries).
-
-![alt text](https://drive.google.com/drive/my-drive/Screenshot from 2021-03-27 12-51-00.png)
